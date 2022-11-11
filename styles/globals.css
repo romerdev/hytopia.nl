@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 a {
-    @apply text-emerald-600;
+    @apply text-emerald-700;
 }
 
 a:hover {
