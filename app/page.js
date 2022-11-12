@@ -10,9 +10,9 @@ export default function Home() {
       <Card>
         <Image alt="Hytale Logo" src="/logo.webp" width="43" height="100" />
         <p className="my-8">
-            Hytopia wordt een real-life ervaring in <a href="https://hytale.com/" target="_blank">Hytale</a>. Schrijf je in voor de nieuwsletter om op de hoogte te blijven.
+            Hytopia wordt een real-life ervaring in <a href="https://hytale.com/" target="_blank">Hytale</a>. Schrijf je in voor de nieuwsbrief om op de hoogte te blijven.
         </p>
-        <p className="text-emerald-700 text-sm outline p-3">Nieuwsletter volgt binnenkort..</p>
+        <p className="text-emerald-700 text-sm outline p-3">Nieuwsbrief volgt binnenkort..</p>
       </Card>
 
       <Card type="small">
